@@ -2,7 +2,7 @@
 
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Git Modülü Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html ve gitignore barındırıyor.
 
-![github](markdown-image.jpg)
+![github](images/markdown-image.jpg)
 
 ## Installation
 
